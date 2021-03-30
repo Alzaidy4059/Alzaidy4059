@@ -4,7 +4,9 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me? Well, here is my contact information
 E-mail: alzaidy4059@gmail.com
+
 LinkedIn: 
+
 Mobile number: +967774322947
 
 <!---

@@ -1,12 +1,10 @@
 - 👋 Hi, I’m Ali Al-Zaidy
 - 👀 I’m interested in The world of Software development
 - 🌱 I’m currently learning web development
-- 💞️ I’m looking to collaborate on ...
+ 
 - 📫 How to reach me? Well, here is my contact information
 
 E-mail: alzaidy4059@gmail.com
-
-LinkedIn: 
 
 Mobile number: +967774322947
 
